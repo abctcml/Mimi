@@ -15,7 +15,7 @@ import android.graphics.Color;
 
 public class MainActivity extends Activity {
     // Replace this with a website you are permitted to access and display.
-    private static final String HOME_URL = "https://example.com";
+    private static final String HOME_URL = "https://mimihentai.moe";
 
     private WebView webView;
     private ProgressBar progressBar;
